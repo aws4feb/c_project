@@ -1,6 +1,7 @@
-#include <stdio.h>
-
-int main() {
+#include<stdio.h>
+void prime()
+//int main() 
+{
    int low, high, i, flag;
    printf("Enter two numbers(intervals): ");
    scanf("%d %d", &low, &high);

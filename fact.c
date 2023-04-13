@@ -1,5 +1,7 @@
-#include <stdio.h>
-int main() {
+#include<stdio.h>
+void fact()
+//int main() 
+{
     int num, i;
     printf("Enter a positive integer: ");
     scanf("%d", &num);
